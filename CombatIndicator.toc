@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: CombatIndicator
+## Notes: Shows when you leave combat and when Stealth is ready again. /ci for options.
+## Author: drago
+## Version: 1.0.0
+## X-Flavor: Forever
+## SavedVariables: CombatIndicatorDB
+
+Libs\LibStub\LibStub.lua
+Libs\LibCustomGlow-1.0\LibCustomGlow-1.0.xml
+
+CombatIndicator.lua
